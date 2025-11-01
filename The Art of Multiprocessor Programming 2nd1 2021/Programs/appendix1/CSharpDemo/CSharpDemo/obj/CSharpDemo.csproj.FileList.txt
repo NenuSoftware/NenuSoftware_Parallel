@@ -1,0 +1,5 @@
+obj\Release\CSharpDemo.exe
+obj\Release\CSharpDemo.pdb
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\CSharpDemo.exe
+bin\Release\CSharpDemo.pdb
